@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkyiu1234
-- 👀 I’m interested in MongoDB
-- 🌱 I’m currently learning MongoDB
+- 👀 I’m interested in c#
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
